@@ -1,7 +1,7 @@
 # Holo_GLEAM_BRDG
-HOLOGRAPH BRIDGE GLEAM NFT from Polygone to Avalanche
+HOLOGRAPH BRIDGE through L0 GLEAM NFT from Polygone to Avalanche
 
-Скрипт Бриджит из Polygona в Avalanche NFT GLEAM 
+Скрипт Бриджит из Polygona в Avalanche NFT GLEAM через L0
 
 wallets.txt вводим приватники 1 приватник одна строчка. 
 
