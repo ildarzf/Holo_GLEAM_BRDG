@@ -6,3 +6,5 @@ HOLOGRAPH BRIDGE through L0 GLEAM NFT from Polygone to Avalanche
 wallets.txt вводим приватники 1 приватник одна строчка. 
 
 Donate (evm) : 0xe7b5cb9f137C663D07EF2539678392650c8e3645
+
+Telegram https://t.me/ildarzf  .
